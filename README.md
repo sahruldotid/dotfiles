@@ -12,4 +12,4 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 
 ## Run
-`Ctrl+I`
+`Prefix+I`
