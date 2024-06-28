@@ -2,7 +2,7 @@
 
 ### Install with stow:
 ```bash
-stow --target .
+stow --adopt .
 ```
 
 ## Install
