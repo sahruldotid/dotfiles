@@ -34,6 +34,11 @@ local plugins = {
   {
     "christoomey/vim-tmux-navigator",
     lazy = false,
+  },
+  {
+    "numToStr/Comment.nvim",
+    opts = {
+    }
   }
 }
 
