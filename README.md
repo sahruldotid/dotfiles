@@ -16,7 +16,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 
 ## Install fzf
-Once everything has been installed it's time to run TPM, install first:
+Fzf for easy search on history:
 ```bash
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ~/.fzf/install
