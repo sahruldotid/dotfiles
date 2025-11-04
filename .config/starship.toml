@@ -1,0 +1,5 @@
+[time]
+disabled = false
+format = '🕙[\[ $time \]]($style) '
+time_format = '%c'
+utc_time_offset = '+7'
