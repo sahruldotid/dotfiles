@@ -5,6 +5,35 @@
             "complex_modifications": {
                 "rules": [
                     {
+                        "description": "Fn + C → Ctrl + C (Ghostty only)",
+                        "manipulators": [
+                            {
+                                "conditions": [
+                                    {
+                                        "bundle_identifiers": [
+                                            "^com\\.mitchellh\\.ghostty$"
+                                        ],
+                                        "type": "frontmost_application_if"
+                                    }
+                                ],
+                                "from": {
+                                    "key_code": "c",
+                                    "modifiers": {
+                                        "mandatory": ["fn"],
+                                        "optional": ["any"]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "c",
+                                        "modifiers": ["control"]
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
                         "description": "Swap left_command with left_option",
                         "manipulators": [
                             {
@@ -298,7 +327,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.mitchellh\\.ghostty$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -352,6 +382,7 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
+                                            "^com\\.mitchellh\\.ghostty$",
                                             "^tv\\.parsec\\.www$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -406,6 +437,7 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
+                                            "^com\\.mitchellh\\.ghostty$",
                                             "^tv\\.parsec\\.www$"
                                         ],
                                         "type": "frontmost_application_unless"
