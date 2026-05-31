@@ -51,6 +51,7 @@ local browser = "google-chrome-stable"
 hl.on("hyprland.start", function()
 	hl.exec_cmd("waybar")
 	hl.exec_cmd("systemctl --user start hyprpolkitagent")
+	hl.exec_cmd("hyprpaper")
 	hl.exec_cmd("hyprctl setcursor Bibata-Modern-Ice 30")
 end)
 
@@ -61,8 +62,11 @@ end)
 -- See https://wiki.hypr.land/Configuring/Advanced-and-Cool/Environment-variables/
 
 hl.env("XCURSOR_SIZE", "30")
-hl.env("HYPRCURSOR_SIZE", "24")
+hl.env("XCURSOR_THEME", "Bibata-Modern-Ice")
+hl.env("HYPRCURSOR_SIZE", "30")
+hl.env("HYPRCURSOR_THEME", "Bibata-Modern-Ice")
 hl.env("QT_QPA_PLATFORMTHEME", "qt6ct")
+hl.env("_JAVA_AWT_WM_NONREPARENTING", "1")
 
 -----------------------
 ----- PERMISSIONS -----
@@ -233,6 +237,9 @@ hl.config({
 		touchpad = {
 			natural_scroll = false,
 		},
+	},
+	cursor = {
+		no_hardware_cursors = 1,
 	},
 })
 
