@@ -67,7 +67,7 @@ hl.env("HYPRCURSOR_SIZE", "30")
 hl.env("HYPRCURSOR_THEME", "Bibata-Modern-Ice")
 hl.env("QT_QPA_PLATFORMTHEME", "qt6ct")
 hl.env("_JAVA_AWT_WM_NONREPARENTING", "1")
-
+hl.env("AWT_TOOLKIT", "MToolkit")
 -----------------------
 ----- PERMISSIONS -----
 -----------------------
@@ -118,7 +118,7 @@ hl.config({
 
 		-- Change transparency of focused and unfocused windows
 		active_opacity = 1.0,
-		inactive_opacity = 0.9,
+		inactive_opacity = 1,
 
 		shadow = {
 			enabled = true,
