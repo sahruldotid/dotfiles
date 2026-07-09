@@ -203,7 +203,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -238,7 +239,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                                             "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -298,6 +300,7 @@
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
                                             "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$",
                                             "^com\\.mitchellh\\.ghostty$"
                                         ],
                                         "type": "frontmost_application_unless"
@@ -353,7 +356,8 @@
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
                                             "^com\\.mitchellh\\.ghostty$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -408,7 +412,8 @@
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
                                             "^com\\.mitchellh\\.ghostty$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -443,7 +448,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                                             "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -502,7 +508,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -556,7 +563,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -649,7 +657,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -708,7 +717,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -743,7 +753,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                                             "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -802,7 +813,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -861,7 +873,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -920,7 +933,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -973,7 +987,8 @@
                                             "^com\\.citrix\\.XenAppViewer$",
                                             "^com\\.vmware\\.proxyApp\\.",
                                             "^com\\.parallels\\.winapp\\.",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1023,7 +1038,8 @@
                                             "^com\\.citrix\\.XenAppViewer$",
                                             "^com\\.vmware\\.proxyApp\\.",
                                             "^com\\.parallels\\.winapp\\.",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1055,7 +1071,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                                             "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1084,7 +1101,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                                             "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1116,7 +1134,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                                             "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1151,7 +1170,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                                             "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1180,7 +1200,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                                             "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1212,7 +1233,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                                             "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1271,7 +1293,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1325,7 +1348,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1383,7 +1407,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1430,7 +1455,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^io\\.alacritty$",
                                             "^net\\.kovidgoyal\\.kitty$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1499,7 +1525,8 @@
                                             "^com\\.citrix\\.XenAppViewer$",
                                             "^com\\.vmware\\.proxyApp\\.",
                                             "^com\\.parallels\\.winapp\\.",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1591,7 +1618,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                                             "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1626,7 +1654,8 @@
                                             "^co\\.zeit\\.hyper$",
                                             "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                                             "^com\\.microsoft\\.rdc\\.macos$",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
@@ -1706,7 +1735,8 @@
                                             "^com\\.citrix\\.XenAppViewer$",
                                             "^com\\.vmware\\.proxyApp\\.",
                                             "^com\\.parallels\\.winapp\\.",
-                                            "^tv\\.parsec\\.www$"
+                                            "^tv\\.parsec\\.www$",
+                                            "^com\\.realvnc\\.vncviewer$"
                                         ],
                                         "type": "frontmost_application_unless"
                                     }
