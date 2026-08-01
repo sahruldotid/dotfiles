@@ -1,0 +1,9 @@
+macos-option-as-alt=left
+keybind = alt+arrow_left=unbind
+keybind = alt+arrow_right=unbind
+keybind = ctrl+shift+c=copy_to_clipboard
+keybind = ctrl+shift+v=paste_from_clipboard
+font-family = "Iosevka Term"
+font-size = 25
+term = xterm-256color
+maximize = true
